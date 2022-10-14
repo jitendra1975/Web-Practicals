@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        My Home Page With Marquee
+    </title>
+</head>
+<body background="a4a3e0" text="Black">
+    <font align="center" face="Time New Roman" color="black">
+    <h1>marquee behavior</h1>
+    <hr>
+    <marquee behavior="scroll"direction="up" bgcolor="#cef6f5";>Scrolling upwards</marquee>
+    <marquee behavior="alternate" direction="down" bgcolor="#FFFF99">Scrolling downwards</marquee>
+    <marquee behavior="slide" direction="left" bgcolor="FFCCCC">Scrolling left</marquee>
+    <marquee behavior="scroll" direcyion="right" bgcolor="CCFFCC">Scrolling right</marquee>
+    <h2>sliding</h2>
+    <marquee behavior="slide" bgcolor="#E2B3E6">we sre sliding</marquee>
+    <h2>alternative</h2>
+    <marquee behavior="alternative" bgcolor="#A3E0AC">this is alternative</marquee>
+    
+</body>
+</html>

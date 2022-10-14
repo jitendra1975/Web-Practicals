@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>List Tags</title>
+</head>
+<body bgcolor="pink">
+    <h1>Ordered List</h1>
+    <ol type="a">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <li>C++</li>
+    </ol>
+    <ol type="A">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <li>C++</li>
+    </ol>
+    <ol type="1">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <LI>C++</LI>
+    </ol>
+    <ol type="i">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <li>C++</li>
+    </ol>
+    <OL type="I">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <li>C++</li>
+    </OL>
+    <h1> Unordered List</h1>
+    <ul type="circle">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <li>C++</li>
+    </ul>
+    <ul type="disc">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <li>C++</li>
+    </ul>
+    <ul type="square">
+        <li>html</li>
+        <li>C programing</li>
+        <li>java</li>
+        <li>C++</li>
+    </ul>
+</body>
+</html>
